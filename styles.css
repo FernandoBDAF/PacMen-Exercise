@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+#game {
+    width: 100%;
+    height: 100%;
+    background-color: #00000023;
+    color: #fff;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.5rem;
+}
+
+.buttons {
+    padding: 12px;
+    margin-left: 12px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+#createBtn {
+    background-color: yellow;
+}
+
+#startBtn {
+    background-color: green;
+    color: #fff;
+}
