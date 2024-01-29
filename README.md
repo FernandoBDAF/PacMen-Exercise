@@ -1,4 +1,5 @@
 # PacMan Game
+<img src="images/PacMan1.png" width="33%">
 
 ## Description
 A simple PacMan game built using HTML, CSS, and JavaScript. You can add PacMen, start and pause the game.
