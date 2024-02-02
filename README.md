@@ -2,7 +2,23 @@
 <img src="images/PacMan1.png" width="33%">
 
 ## Description
-A simple PacMan game built using HTML, CSS, and JavaScript. You can add PacMen, start and pause the game.
+
+A simple PacMan game built using HTML, CSS, and JavaScript. You can add PacMen, start, and pause the game.
+
+**Features:**
+
+- **Add PacMen:** Click "Add PacMan" to populate the screen with dynamic PacMen, ready to roam and munch through the digital maze.
+
+- **Start/Pause Game:** Control the action with "Start Game" and "Pause Game" buttons, providing on-demand excitement.
+
+- **Dynamic Movement:** PacMen move dynamically, changing direction at screen boundaries, mirroring the classic arcade experience.
+
+**Technical Details:**
+
+- Utilizes HTML, CSS, and JavaScript for a simple and efficient design.
+- Responsive layout ensures compatibility across various screen sizes.
+- Real-time updates delivered through intervals for smooth PacMan traversal.
+
 
 ## How to Run
 1. Clone the repository.
